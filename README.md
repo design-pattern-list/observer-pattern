@@ -1,4 +1,4 @@
-# Observer
+# Observer Pattern
 ### Type
 The Observer Design Pattern is **a behavioral pattern**.
 ### Description
