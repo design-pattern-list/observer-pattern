@@ -2,7 +2,7 @@
 ### Type
 The Observer Design Pattern is **a behavioral pattern**.
 ### Description
-The observer design pattern gives you the ability to *trigger an operation in a class (the observer ) when the observable class changes it's state*.
+The observer design pattern gives you the ability to *trigger an operation in a class (the observer) when the observable class changes its state*.
 ### Use
 1. When a class needs to know when a another object its state changes.
 ### Prevent
